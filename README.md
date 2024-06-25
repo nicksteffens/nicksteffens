@@ -6,5 +6,6 @@
   - Metal
   - Snowboarding
   - Design Systems
+  - Video Games
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm self taught frontend engineer. I have a BFA: Furniture Design
